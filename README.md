@@ -1,5 +1,5 @@
-# Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for `SMILES` Strings 
-<img src="https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/assets/41548734/4a7b76b5-d793-4880-8108-55b76e945023" width="100" height="100"> 
+# <img src="https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/blob/main/Image/SMILINGLLaMA.png" width="60" height="60"> Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for `SMILES` Strings 
+
 
 **`Purpose:`** `Large Language Models (LLMs)` like `ChatGPT` and `LLaMA` are
 increasingly recognized for their potential in the field of cheminformatics,
