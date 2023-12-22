@@ -21,3 +21,7 @@ both areas.
 utilizing SMILES embeddings, shows significant promise for advancing drug
 development. This includes improving the prediction of chemical properties and
 facilitating the drug discovery process.
+
+
+# 1. Gold Standard Datasets
+  **`DDI Network`** [BioSnap](https://github.com/sshaghayeghs/DDI-LLM/blob/main/Dataset/DDI/BioSNAP_ChCh-Miner_ChCh-Miner_durgbank-chem-chem.tsv) & [DrugBank](https://github.com/sshaghayeghs/DDI-LLM/blob/main/Dataset/DDI/DrugbankDDI.csv)
