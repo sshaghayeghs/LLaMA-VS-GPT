@@ -1,4 +1,5 @@
-# Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for `SMILES` Strings
+# Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for `SMILES` Strings ![image](https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/assets/41548734/4a7b76b5-d793-4880-8108-55b76e945023)
+
 **`Purpose:`** `Large Language Models (LLMs)` like `ChatGPT` and `LLaMA` are
 increasingly recognized for their potential in the field of cheminformatics,
 particularly in interpreting Simplified Molecular Input Line Entry System
