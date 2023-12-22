@@ -25,3 +25,5 @@ facilitating the drug discovery process.
 
 # 1. Gold Standard Datasets
   **`DDI Network`** [BioSnap](https://github.com/sshaghayeghs/DDI-LLM/blob/main/Dataset/DDI/BioSNAP_ChCh-Miner_ChCh-Miner_durgbank-chem-chem.tsv) & [DrugBank](https://github.com/sshaghayeghs/DDI-LLM/blob/main/Dataset/DDI/DrugbankDDI.csv)
+
+  **`MoleculeNet`** [BBBP](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/BBBP.csv), [BACE C](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/bace.csv), [HIV](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/HIV.csv), [ClinToX](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/clintox.csv.gz)& [DeepChem](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
