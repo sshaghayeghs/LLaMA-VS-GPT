@@ -1,4 +1,4 @@
-# <img src="https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/blob/main/Image/SMILINGLLaMA.png" width="60" height="60"> Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for 'Molecule Embedding'
+# <img src="https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/blob/main/Image/SMILINGLLaMA.png" width="60" height="60"> Comparative Analysis of `LLaMA` and `ChatGPT` Embeddings for `Molecule Embedding`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PMID8QoQ7qC8DODOHFY6JaL3Ye-SEtXG?usp=sharing)
 
 **`Purpose:`** `Large Language Models (LLMs)` like `ChatGPT` and `LLaMA` are
