@@ -3,7 +3,7 @@
 ## GPT
 ### Classification
 #### [BBBP](https://drive.google.com/file/d/1ZrJrs_DcFSRtDsb9blUuWyjjanlRKol7/view?usp=sharing)
-#### [BACE C](https://drive.google.com/file/d/1ZoAt4Gxf4xgPqxvnpvixQor5EXbkWeNI/view?usp=sharing))
+#### [BACE C](https://drive.google.com/file/d/1ZoAt4Gxf4xgPqxvnpvixQor5EXbkWeNI/view?usp=sharing)
 #### [HIV](https://drive.google.com/file/d/1_F8me6R7ANzBBH4fyUfFhWEL1XKqc3aV/view?usp=sharing)
 ### Multi-task Classification
 #### [ClinTox](https://drive.google.com/file/d/1ZkoRF_vjmP9Bab8iKDFEf_rONrklttqm/view?usp=sharing)
