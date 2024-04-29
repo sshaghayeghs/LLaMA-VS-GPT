@@ -1,12 +1,21 @@
 # Links To Embedding Files
 
 ## GPT
-### [BBBP](https://drive.google.com/open?id=1E4Ua2YRn68Sx03tzedlNArkmUiQ2-Drq&usp=drive_fs)
-### [BACE C](https://drive.google.com/open?id=18UJGaePh8ztKcVjjxacQqqGoabDI299J&usp=drive_fs)
-### [HIV](https://drive.google.com/open?id=13lcc9_AFm5TTXIH64OMO2ZyQ3JWuvO-o&usp=drive_fs)
-### [ClinTox](https://drive.google.com/open?id=1nLw3Cz8mKEFwuLm5dHW9fP9K4j6DcT9b&usp=drive_fs)
-### [DDI_SMILES](https://drive.google.com/open?id=1DTd-l6VOdyqpD-aA7MQ6V5KFVfflJY8_&usp=drive_fs)
-### [DDI_Description](https://drive.google.com/open?id=1D_ZoWfuzKxjSpJKKcVcJj0UaVDGqT89U&usp=drive_fs)
+### Classification
+#### [BBBP](https://drive.google.com/file/d/1ZrJrs_DcFSRtDsb9blUuWyjjanlRKol7/view?usp=sharing)
+#### [BACE C](https://drive.google.com/file/d/1ZoAt4Gxf4xgPqxvnpvixQor5EXbkWeNI/view?usp=sharing))
+#### [HIV](https://drive.google.com/file/d/1_F8me6R7ANzBBH4fyUfFhWEL1XKqc3aV/view?usp=sharing)
+### Multi-task Classification
+#### [ClinTox](https://drive.google.com/file/d/1ZkoRF_vjmP9Bab8iKDFEf_rONrklttqm/view?usp=sharing)
+#### [Tox21](https://drive.google.com/file/d/1_QQ6c1aOoo2ibekANVHfJSoFMcQF0B7r/view?usp=sharing)
+#### [SIDER](https://drive.google.com/file/d/1ZnIxAO9lcHHUp7LaPh66Jm4uz1T1jAxW/view?usp=sharing)
+### Regression
+#### [Lipo](https://drive.google.com/file/d/1_a-xDiIVQU1IyqvpgSvgXeKIdShbxkHc/view?usp=sharing)
+#### [ESOL](https://drive.google.com/file/d/1_GBjbxCTqagtwfPf54PsPoPptSNpGil9/view?usp=sharing)
+#### [FreeSolv](https://drive.google.com/file/d/1_QvVA2mfRtDCENuMKRH_o1VgsrzVyaj_/view?usp=drive_link)
+### Link Prediction
+#### [DDI_SMILES](https://drive.google.com/open?id=1DTd-l6VOdyqpD-aA7MQ6V5KFVfflJY8_&usp=drive_fs)
+#### [DDI_Description](https://drive.google.com/open?id=1D_ZoWfuzKxjSpJKKcVcJj0UaVDGqT89U&usp=drive_fs)
 
 
 ## LLaMA
