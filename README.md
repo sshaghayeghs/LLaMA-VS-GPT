@@ -1,5 +1,5 @@
 # <img src="https://github.com/sshaghayeghs/LLaMA-VS-ChatGPT/blob/main/Image/SMILINGLLaMA.png" width="60" height="60"> Large Language Models in `Molecular Embeddings`
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PMID8QoQ7qC8DODOHFY6JaL3Ye-SEtXG?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11faD4z6Au0i9RkyRZeY4QqIFR85fqUfo?usp=sharing)
 
 **`Purpose:`** Large Language Models (LLMs) like `GPT (Generative Pre-trained Transformer)` from `OpenAI` and `LLaMA (Large Language Model Meta AI)` from `Meta AI` are increasingly recognized for their potential in the field of cheminformatics, particularly in understanding Simplified Molecular Input Line Entry System `(SMILES)`, a standard method for representing chemical structures. These LLMs also have the ability to decode SMILES strings into vector representations.
 
